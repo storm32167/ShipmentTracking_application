@@ -1,0 +1,11 @@
+C:\Users\Josip\Desktop\HT\HT\bin\Debug\HT.exe.config
+C:\Users\Josip\Desktop\HT\HT\bin\Debug\HT.exe
+C:\Users\Josip\Desktop\HT\HT\bin\Debug\HT.pdb
+C:\Users\Josip\Desktop\HT\HT\obj\Debug\HT.csproj.AssemblyReference.cache
+C:\Users\Josip\Desktop\HT\HT\obj\Debug\HT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josip\Desktop\HT\HT\obj\Debug\HT.Form1.resources
+C:\Users\Josip\Desktop\HT\HT\obj\Debug\HT.Properties.Resources.resources
+C:\Users\Josip\Desktop\HT\HT\obj\Debug\HT.csproj.GenerateResource.cache
+C:\Users\Josip\Desktop\HT\HT\obj\Debug\HT.csproj.CoreCompileInputs.cache
+C:\Users\Josip\Desktop\HT\HT\obj\Debug\HT.exe
+C:\Users\Josip\Desktop\HT\HT\obj\Debug\HT.pdb
